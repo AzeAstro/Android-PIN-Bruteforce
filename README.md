@@ -44,7 +44,7 @@ The USB HID Gadget driver provides emulation of USB Human Interface Devices (HID
 
 ## Installation
 
-TBC
+It needs to be installed on /sdcard or whereever u want on Android filesystem. Then, needs to be ran from Android root shell rather than nethunter.
 
 ## Executing the script
 
